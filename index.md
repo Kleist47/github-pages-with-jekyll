@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+### Intoduction
+Hy, i'm Ilia. I study in BMSTU and work in Accenture as intern.
+Here i plan to tell you about my life.
